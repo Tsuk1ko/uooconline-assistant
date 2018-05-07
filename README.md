@@ -1,2 +1,4 @@
 # uooconline assistant
-仍在调试中
+如何使用请看
+
+https://lolico.moe/technology/uooconline-assistant.html
