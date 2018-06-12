@@ -1,7 +1,7 @@
 //提示音
 var au = document.createElement("audio");
 au.preload = "auto";
-au.src = "https://res.hibikiii.com/uooc/msg.mp3";
+au.src = "https://res.lolicon.app/uooc/msg.mp3";
 //变量
 var sId;					//记录当前课程id，用于切课的时候还原视频速度与音量
 var sVolume = 0;			//初始视频音量
@@ -46,7 +46,7 @@ function gotonextcourse() {
         Notification.requestPermission(function(status) {
             var n = new Notification("那个~主人~", {
                 body: "视频都放完了喵！该做测验了喵！",
-                icon: "https://res.hibikiii.com/uooc/nof.png"
+                icon: "https://res.lolicon.app/uooc/nof.png"
             });
         });
     }
