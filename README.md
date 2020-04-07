@@ -1,4 +1,3 @@
 # uooconline assistant
-如何使用请看
 
-https://lolico.moe/technology/uooconline-assistant.html
+已弃用，请看 [uooconline-assistant](https://github.com/Tsuk1ko/uooconline-assistant)
